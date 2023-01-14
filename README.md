@@ -16,6 +16,16 @@ My CV is <a href="https://drive.google.com/file/d/1arll3A4Lql6NNdOzgxDNIxYfNr5bb
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VSCODE-24292f?style=for-the-badge&logo=vscode&logoColor=2684ff)
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-24292f?style=for-the-badge&logo=charlesproxy&logoColor=2684ff)
 
+### Testing Documentation:
++ [Test Cases]()
++ [Bug Reports]()
++ [SQL Queries](https://github.com/morsunne/SQLqueries.git)
++ [Postman Collections]()
+
+
+
+
+
 ### How to reach me:
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-24292f?style=for-the-badge&logo=linkedin&logoColor=0077b7)](https://www.linkedin.com/in/mariia-chala/)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-24292f?style=for-the-badge&logo=telegram&logoColor=32aadf)](https://t.me/morsunne)
