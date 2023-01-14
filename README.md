@@ -3,7 +3,8 @@
 ![HEADER](https://github.com/morsunne/morsunne/blob/main/assets/Beige%20Feminine%20Personal%20LinkedIn%20Banner.png)
 
 ### I'm a Junior QA Engineer that made a career switch from English Translator.
-Located in Kyiv, UKRAINE.
+Located in Kyiv, UKRAINE.<br>
+My CV is <a href="https://drive.google.com/file/d/1arll3A4Lql6NNdOzgxDNIxYfNr5bbi5X/view?usp=sharing">here</a>.
 
 ### Tools I work with
 ![JIRA](https://img.shields.io/badge/-JIRA-24292f?style=for-the-badge&logo=jira&logoColor=2684ff)
