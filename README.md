@@ -3,6 +3,7 @@
 ![HEADER](https://github.com/morsunne/morsunne/blob/main/assets/Beige%20Feminine%20Personal%20LinkedIn%20Banner.png)
 
 ### I'm a Junior QA Engineer that made a career switch from English Translator.
+Located in Kyiv, UKRAINE.
 
 ### Tools I work with
 ![JIRA](https://img.shields.io/badge/-JIRA-24292f?style=for-the-badge&logo=jira&logoColor=2684ff)
@@ -14,8 +15,10 @@
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VSCODE-24292f?style=for-the-badge&logo=vscode&logoColor=2684ff)
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-24292f?style=for-the-badge&logo=charlesproxy&logoColor=2684ff)
 
-How to reach me:
-
+### How to reach me:
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-24292f?style=for-the-badge&logo=linkedin&logoColor=0077b7)](https://www.linkedin.com/in/mariia-chala/)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-24292f?style=for-the-badge&logo=telegram&logoColor=32aadf)](https://t.me/morsunne)
+[![GMAIL](https://img.shields.io/badge/-GMAIL-24292f?style=for-the-badge&logo=gmail&logoColor=f14336)](mailto:chalayamaria@gmail.com)
 
 <!--
 **morsunne/morsunne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
