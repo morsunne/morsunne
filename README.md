@@ -4,8 +4,15 @@
 
 ### I'm a Junior QA Engineer that made a career switch from English Translator.
 
-Languages and Tools
-
+### Tools I work with
+![JIRA](https://img.shields.io/badge/-JIRA-24292f?style=for-the-badge&logo=jira&logoColor=2684ff)
+![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-24292f?style=for-the-badge&logo=testrail&)
+![MYSQL](https://img.shields.io/badge/-MYSQL-24292f?style=for-the-badge&logo=mysql&logoColor=2684ff)
+![POSTMAN](https://img.shields.io/badge/-POSTMAN-24292f?style=for-the-badge&logo=postman&logoColor=ff6c38)
+![GIT](https://img.shields.io/badge/-GIT-24292f?style=for-the-badge&logo=git&logoColor=f05033)
+![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-24292f?style=for-the-badge&logo=googlechrome&logoColor=3d85fe)
+![VISUAL STUDIO CODE](https://img.shields.io/badge/-VSCODE-24292f?style=for-the-badge&logo=vscode&logoColor=2684ff)
+![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-24292f?style=for-the-badge&logo=charlesproxy&logoColor=2684ff)
 
 How to reach me:
 
