@@ -20,7 +20,7 @@ My CV is <a href="https://drive.google.com/file/d/1arll3A4Lql6NNdOzgxDNIxYfNr5bb
 + [Test Cases]()
 + [Bug Reports]()
 + [SQL Queries](https://github.com/morsunne/SQLqueries.git)
-+ [Postman Collections]()
++ [Postman Collections](https://github.com/morsunne/PostmanColl)
 
 
 
