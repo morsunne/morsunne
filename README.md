@@ -17,8 +17,8 @@ My CV is <a href="https://drive.google.com/file/d/1arll3A4Lql6NNdOzgxDNIxYfNr5bb
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-24292f?style=for-the-badge&logo=charlesproxy&logoColor=2684ff)
 
 ### Testing Documentation:
-+ [Test Cases]()
-+ [Bug Reports]()
++ [Privat24 banking app project: test cases, bug reports, use cases](https://github.com/morsunne/Privat24)
++ [Other Bug Reports]()
 + [SQL Queries](https://github.com/morsunne/SQLqueries.git)
 + [Postman Collections](https://github.com/morsunne/PostmanColl)
 
