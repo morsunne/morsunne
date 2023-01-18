@@ -18,7 +18,7 @@ My CV is <a href="https://drive.google.com/file/d/1arll3A4Lql6NNdOzgxDNIxYfNr5bb
 
 ### Testing Documentation:
 + [Privat24 banking app project: test cases, bug reports, use cases](https://github.com/morsunne/Privat24)
-+ [Other Bug Reports]()
++ [Other Bug Reports](https://github.com/morsunne/BugReports)
 + [Check Lists](https://github.com/morsunne/Checklists)
 + [SQL Queries](https://github.com/morsunne/SQLqueries.git)
 + [Postman Collections](https://github.com/morsunne/PostmanColl)
