@@ -4,7 +4,7 @@
 
 ### I'm a Junior QA Engineer that made a career switch from English Translator.
 Located in Kyiv, UKRAINE.<br>
-My CV is <a href="https://drive.google.com/file/d/1emHFXZ6qF9sr6iUL-NRdMYPFylDAxjP0/view?usp=sharing">here</a>.
+My CV is <a href="https://drive.google.com/file/d/1emHFXZ6qF9sr6iUL-NRdMYPFylDAxjP0/view?usp=sharing" target = "_blank">here</a>.
 
 ### Tools I work with
 ![JIRA](https://img.shields.io/badge/-JIRA-24292f?style=for-the-badge&logo=jira&logoColor=2684ff)
